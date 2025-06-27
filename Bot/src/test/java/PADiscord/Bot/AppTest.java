@@ -1,4 +1,4 @@
-package Codemates.Discord.v1.o;
+package PADiscord.Bot;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

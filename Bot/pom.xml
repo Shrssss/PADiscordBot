@@ -3,11 +3,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>Codemates.Discord</groupId>
-  <artifactId>v1.0.0o</artifactId>
+  <groupId>PADiscord</groupId>
+  <artifactId>Bot</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>v1.0.0o</name>
+  <name>Bot</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -87,7 +87,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>Codemates.Discord.v1.o.CodeMatesBot</mainClass>
+            <mainClass>PADiscord.Bot.PADiscordBot</mainClass>
           </manifest>
         </archive>
       </configuration>
